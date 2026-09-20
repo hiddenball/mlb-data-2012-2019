@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2014,
+    "field": "boxscore",
+    "total_checked": 2469,
+    "had_data": 2469,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "linescore",
+    "total_checked": 2469,
+    "had_data": 2469,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "playbyplay",
+    "total_checked": 2469,
+    "had_data": 2469,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 30,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2014,
+    "field": "winprobability",
+    "total_checked": 2469,
+    "had_data": 2469,
+    "pct_available": 100.0
+  }
+]
