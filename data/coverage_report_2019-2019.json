@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2019,
+    "field": "boxscore",
+    "total_checked": 2471,
+    "had_data": 2471,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "linescore",
+    "total_checked": 2471,
+    "had_data": 2471,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "playbyplay",
+    "total_checked": 2471,
+    "had_data": 2471,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 30,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2019,
+    "field": "winprobability",
+    "total_checked": 2471,
+    "had_data": 2471,
+    "pct_available": 100.0
+  }
+]
