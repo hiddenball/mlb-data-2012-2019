@@ -1,0 +1,290 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 605141,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 592885,
+    "teamId": 158,
+    "year": 2018
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 605483,
+    "teamId": 139,
+    "year": 2018
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 594798,
+    "teamId": 121,
+    "year": 2018
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 660271,
+    "teamId": 108,
+    "year": 2018
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 660670,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 460086,
+    "teamId": 118,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 592743,
+    "teamId": 108,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 572971,
+    "teamId": 117,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 435079,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 598265,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 656305,
+    "teamId": 133,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 621566,
+    "teamId": 133,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 605141,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 519203,
+    "teamId": 112,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 572816,
+    "teamId": 134,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518934,
+    "teamId": 115,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 542255,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518692,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 605113,
+    "teamId": 109,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 455976,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425877,
+    "teamId": 138,
+    "year": 2018
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425844,
+    "teamId": 109,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 502110,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 596019,
+    "teamId": 114,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 502110,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 514888,
+    "teamId": 117,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 547989,
+    "teamId": 145,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 608070,
+    "teamId": 114,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 111,
+    "year": 2018
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592885,
+    "teamId": 158,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 444482,
+    "teamId": 109,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 608566,
+    "teamId": 115,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592663,
+    "teamId": 146,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 595879,
+    "teamId": 112,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 455976,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 502671,
+    "teamId": 109,
+    "year": 2018
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 596115,
+    "teamId": 115,
+    "year": 2018
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123437,
+    "teamId": 116,
+    "year": 2018
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 119399,
+    "teamId": 116,
+    "year": 2018
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 116706,
+    "teamId": 144,
+    "year": 2018
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123272,
+    "teamId": 114,
+    "year": 2018
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 116034,
+    "teamId": 135,
+    "year": 2018
+  }
+]

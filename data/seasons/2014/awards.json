@@ -1,0 +1,290 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2014
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 477132,
+    "teamId": 119,
+    "year": 2014
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 446372,
+    "teamId": 114,
+    "year": 2014
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 477132,
+    "teamId": 119,
+    "year": 2014
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 547989,
+    "teamId": 145,
+    "year": 2014
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 594798,
+    "teamId": 121,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 430945,
+    "teamId": 110,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 460086,
+    "teamId": 118,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 572971,
+    "teamId": 117,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 456030,
+    "teamId": 111,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 543333,
+    "teamId": 118,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 429666,
+    "teamId": 110,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 572122,
+    "teamId": 136,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 455976,
+    "teamId": 110,
+    "year": 2014
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 408236,
+    "teamId": 119,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 592743,
+    "teamId": 144,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 592885,
+    "teamId": 146,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518934,
+    "teamId": 115,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518792,
+    "teamId": 144,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 501571,
+    "teamId": 121,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425877,
+    "teamId": 138,
+    "year": 2014
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425844,
+    "teamId": 119,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 134181,
+    "teamId": 140,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 493351,
+    "teamId": 145,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 514888,
+    "teamId": 117,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 547989,
+    "teamId": 145,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 430832,
+    "teamId": 141,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 488726,
+    "teamId": 114,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 400121,
+    "teamId": 116,
+    "year": 2014
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 543228,
+    "teamId": 114,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 408236,
+    "teamId": 119,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457705,
+    "teamId": 134,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 543685,
+    "teamId": 120,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457763,
+    "teamId": 137,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 519317,
+    "teamId": 146,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 435622,
+    "teamId": 120,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457708,
+    "teamId": 144,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 518516,
+    "teamId": 137,
+    "year": 2014
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 435522,
+    "teamId": 134,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 112764,
+    "teamId": 144,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123406,
+    "teamId": 147,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 117517,
+    "teamId": 14,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123245,
+    "teamId": 145,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 118120,
+    "teamId": 14,
+    "year": 2014
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 114849,
+    "teamId": 144,
+    "year": 2014
+  }
+]

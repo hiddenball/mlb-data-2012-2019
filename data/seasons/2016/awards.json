@@ -1,0 +1,266 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2016
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 592178,
+    "teamId": 112,
+    "year": 2016
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 519144,
+    "teamId": 111,
+    "year": 2016
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 453286,
+    "teamId": 120,
+    "year": 2016
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 605242,
+    "teamId": 116,
+    "year": 2016
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 608369,
+    "teamId": 119,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 134181,
+    "teamId": 140,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 458731,
+    "teamId": 147,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 572971,
+    "teamId": 117,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 596019,
+    "teamId": 114,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 435079,
+    "teamId": 140,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 595281,
+    "teamId": 139,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 519048,
+    "teamId": 140,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 605141,
+    "teamId": 111,
+    "year": 2016
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 519203,
+    "teamId": 112,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 543063,
+    "teamId": 137,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 457763,
+    "teamId": 137,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 542255,
+    "teamId": 144,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518792,
+    "teamId": 112,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 605412,
+    "teamId": 137,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 516782,
+    "teamId": 134,
+    "year": 2016
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425844,
+    "teamId": 109,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120074,
+    "teamId": 111,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 514888,
+    "teamId": 117,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 518626,
+    "teamId": 141,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 444432,
+    "teamId": 110,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408234,
+    "teamId": 116,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 111,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2016
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 593428,
+    "teamId": 111,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 519203,
+    "teamId": 112,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 453568,
+    "teamId": 115,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592885,
+    "teamId": 146,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 608369,
+    "teamId": 119,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 502517,
+    "teamId": 120,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 453562,
+    "teamId": 112,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 467092,
+    "teamId": 120,
+    "year": 2016
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 493316,
+    "teamId": 121,
+    "year": 2016
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 2016
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 120536,
+    "teamId": 121,
+    "year": 2016
+  }
+]

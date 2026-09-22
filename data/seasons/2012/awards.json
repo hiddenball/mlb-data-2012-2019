@@ -1,0 +1,272 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 408234,
+    "teamId": 116,
+    "year": 2012
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 457763,
+    "teamId": 137,
+    "year": 2012
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 456034,
+    "teamId": 139,
+    "year": 2012
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 285079,
+    "teamId": 121,
+    "year": 2012
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2012
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 547180,
+    "teamId": 120,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 430945,
+    "teamId": 110,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 134181,
+    "teamId": 140,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 460086,
+    "teamId": 118,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 429666,
+    "teamId": 110,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 408241,
+    "teamId": 145,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 476451,
+    "teamId": 139,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 502210,
+    "teamId": 133,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 407893,
+    "teamId": 147,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 446308,
+    "teamId": 110,
+    "year": 2012
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 429664,
+    "teamId": 147,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425560,
+    "teamId": 120,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 457705,
+    "teamId": 134,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 471865,
+    "teamId": 115,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 452104,
+    "teamId": 135,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 446381,
+    "teamId": 112,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 518792,
+    "teamId": 144,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 276519,
+    "teamId": 143,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 279824,
+    "teamId": 146,
+    "year": 2012
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 425877,
+    "teamId": 138,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 150229,
+    "teamId": 145,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 456714,
+    "teamId": 118,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 285078,
+    "teamId": 140,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 425545,
+    "teamId": 142,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 408234,
+    "teamId": 116,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 425902,
+    "teamId": 116,
+    "year": 2012
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 429664,
+    "teamId": 147,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 431094,
+    "teamId": 109,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 425560,
+    "teamId": 120,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457705,
+    "teamId": 134,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457763,
+    "teamId": 137,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 452104,
+    "teamId": 135,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 435622,
+    "teamId": 120,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 457803,
+    "teamId": 113,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 460075,
+    "teamId": 158,
+    "year": 2012
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 544931,
+    "teamId": 120,
+    "year": 2012
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 117501,
+    "teamId": 113,
+    "year": 2012
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 121697,
+    "teamId": 112,
+    "year": 2012
+  }
+]
